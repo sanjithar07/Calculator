@@ -57,17 +57,17 @@ body {
 }
 
 .operator {
-    background: #f4f800;
+    background: orange;
     color: black;
     font-weight: bold;
 }
 
 .operator:hover {
-    background: #ffd900;
+    background: rgb(238, 102, 11);
 }
 
 .clear {
-    background: #ff3b30;
+    background: red;
     color: white;
 }
 
@@ -77,10 +77,10 @@ body {
 
 .equal {
     grid-row: span 2;
-    background: #007aff;
+    background: green;
     color: white;
 }
 
 .equal:hover {
-    background: #339aff;
+    background: rgb(25, 198, 25);
 }
